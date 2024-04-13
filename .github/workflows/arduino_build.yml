@@ -17,4 +17,4 @@ jobs:
             - name: megaTinyCore:megaavr
               source-url: http://drazzy.com/package_drazzy.com_index.json
           sketch-paths: |
-            - src
+            - examples/SimpleButton
