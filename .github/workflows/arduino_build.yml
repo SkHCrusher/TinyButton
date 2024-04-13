@@ -12,9 +12,9 @@ jobs:
 
       - uses: arduino/compile-sketches@v1
         with:
-          fqbn: "ATTinyCore:megaavr:ATtiny412/402/212/202"
+          fqbn: "megaTinyCore:megaavr:atxy2"
           platforms: |
-            - name: ATTinyCore:megaavr
+            - name: megaTinyCore:megaavr
               source-url: http://drazzy.com/package_drazzy.com_index.json
           sketch-paths: |
             - src
