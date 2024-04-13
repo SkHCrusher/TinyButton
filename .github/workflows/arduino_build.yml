@@ -18,3 +18,5 @@ jobs:
               source-url: http://drazzy.com/package_drazzy.com_index.json
           sketch-paths: |
             - examples/SimpleButton
+            - examples/TwoButtons
+            - examples/LongAndShortClick
