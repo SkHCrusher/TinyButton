@@ -1,4 +1,4 @@
-# TinyButton Library [![Build Arduino Sketch](https://github.com/SkHCrusher/TinyButton/actions/workflows/arduino_build.yml/badge.svg)](https://github.com/SkHCrusher/TinyButton/actions/workflows/arduino_build.yml)[![Arduino Lint](https://github.com/SkHCrusher/TinyButton/actions/workflows/arduino_lint.yml/badge.svg)](https://github.com/SkHCrusher/TinyButton/actions/workflows/arduino_lint.yml)
+# TinyButton Library [![Build Arduino Sketch](https://github.com/SkHCrusher/TinyButton/actions/workflows/arduino_build.yml/badge.svg)](https://github.com/SkHCrusher/TinyButton/actions/workflows/arduino_build.yml) [![Arduino Lint](https://github.com/SkHCrusher/TinyButton/actions/workflows/arduino_lint.yml/badge.svg)](https://github.com/SkHCrusher/TinyButton/actions/workflows/arduino_lint.yml)
 
 The TinyButton Arduino library offers minimal functions for simple button interactions.
 
